@@ -1,0 +1,8 @@
+﻿<StaticWebAssets Version="1.0">
+  <ContentRoot BasePath="/" Path="C:\Users\Huko\source\repos\PauliniApplication\Paulini.Server\obj\Release\net5.0\scopedcss\bundle\" />
+  <ContentRoot BasePath="_content/BlazingComponents.Summernote" Path="C:\Users\Huko\.nuget\packages\blazingcomponents.summernote\0.0.6\build\..\staticwebassets\" />
+  <ContentRoot BasePath="_content/Blazored.TextEditor" Path="C:\Users\Huko\.nuget\packages\blazored.texteditor\1.0.3\build\..\staticwebassets\" />
+  <ContentRoot BasePath="_content/Paulini.Client" Path="C:\Users\Huko\source\repos\PauliniApplication\Paulini.Client\obj\Release\net5.0\scopedcss\projectbundle\" />
+  <ContentRoot BasePath="_content/Paulini.Client" Path="C:\Users\Huko\source\repos\PauliniApplication\Paulini.Client\wwwroot\" />
+  <ContentRoot BasePath="_content/Radzen.Blazor" Path="C:\Users\Huko\.nuget\packages\radzen.blazor\3.2.1\build\..\staticwebassets\" />
+</StaticWebAssets>
