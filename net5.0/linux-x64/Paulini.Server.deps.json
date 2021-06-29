@@ -3876,7 +3876,14 @@
           }
         }
       },
-      "Humanizer.Core/2.8.26": {},
+      "Humanizer.Core/2.8.26": {
+        "runtime": {
+          "lib/netstandard2.0/Humanizer.dll": {
+            "assemblyVersion": "2.8.0.0",
+            "fileVersion": "2.8.26.1919"
+          }
+        }
+      },
       "K4os.Compression.LZ4/1.1.11": {
         "dependencies": {
           "System.Memory": "4.5.3"
@@ -4049,6 +4056,12 @@
           "Humanizer.Core": "2.8.26",
           "Microsoft.CSharp": "4.7.0",
           "Microsoft.EntityFrameworkCore.Relational": "5.0.4"
+        },
+        "runtime": {
+          "lib/netstandard2.1/Microsoft.EntityFrameworkCore.Design.dll": {
+            "assemblyVersion": "5.0.4.0",
+            "fileVersion": "5.0.421.11803"
+          }
         }
       },
       "Microsoft.EntityFrameworkCore.Relational/5.0.4": {
